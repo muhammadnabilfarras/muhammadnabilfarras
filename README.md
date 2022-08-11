@@ -23,3 +23,11 @@ Saya seorang mahasiswa Ilmu Komputer di Universitas Pertamina
 Sekarang saya sedang menekuni dalam ilmu pemrograman Web
 
 Jika kamu tertarik berkenalan, silahkan ikuti [LinkedIn](https://www.linkedin.com/in/muhammad-nabil-farras-9034a21a4/)ku ya.
+
+
+<p align="left">
+<a href="https://github.com/muhammadnabilfarras">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadnabilfarras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadnabilfarras&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
