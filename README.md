@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya Muhammad Nabil Farras
+Saya seorang mahasiswa Ilmu Komputer di Universitas Pertamina
+Sekarang saya sedang menekuni dalam ilmu pemrograman Web
+Jika kamu tertarik berkenalan, silahkan ikuti [LinkedIn](https://www.linkedin.com/in/muhammad-nabil-farras-9034a21a4/)ku ya.
