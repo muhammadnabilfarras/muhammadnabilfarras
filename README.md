@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I am currently studying at Pertamina University<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React and PHP<br>💬 If you are interested in getting to know me, please follow me on LinkedIn.
+🔭 I am currently researching things!y<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React and PHP<br>💬 If you are interested in getting to know me, please follow me on LinkedIn.
 
 
 ## 🌐 Socials:
